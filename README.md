@@ -1,4 +1,6 @@
 ## Hi there 👋
+🤔 Currently figuring out the GitHub Pages functionality. 
+
 
 <!--
 **deferredrevenue/deferredrevenue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
