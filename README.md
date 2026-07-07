@@ -1,5 +1,5 @@
 ## Hi there 👋
-🤔 Currently figuring out the GitHub Pages functionality. 
+🤔 Currently figuring out the GitHub Pages functionality. I used https://docs.github.com/en/pages/quickstart which seems slightly out of date for the current GitHub menu layout. 
 
 
 <!--
